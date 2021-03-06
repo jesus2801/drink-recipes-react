@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Deploy
+
+https://stoic-kalam-5199b9.netlify.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
